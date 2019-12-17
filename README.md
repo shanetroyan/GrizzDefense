@@ -1,5 +1,5 @@
 # GrizzDefense
-# A group project with 5 team members who constructed a tower defense game in the Unity game engine with a website .
+# A group project with 5 team members who constructed a tower defense game in the Unity game engine (written in C#) with a website .
 # Authors:
 # Austin Lee (Team Lead- Scrum Master) 
 # Garrett Pascoe (Game Mechanics and Development) 
