@@ -1,0 +1,2 @@
+Arch: x86/amd64 
+OS: Mac OS X (Mojave +)
