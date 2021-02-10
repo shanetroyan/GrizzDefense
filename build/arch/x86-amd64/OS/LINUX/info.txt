@@ -1,0 +1,2 @@
+Arch: x86/amd64
+OS: Linux - debian 10.0+, ubuntu 18.0.4
