@@ -1,0 +1,4 @@
+Arch: amd64 (64-Bit) , x86 (32-Bit) 
+OS: Windows 8, Windows 8.1, Windows 10, Windows 7(Unstable)
+Recommended Memory: 2048 MB
+Minimum Graphics: Intel Integrated Graphics (4000+)
